@@ -1,0 +1,6 @@
+{
+  "name": "Padel Americano Tournament Timer",
+  "description": "A simple timer to manage match and break durations for Padel Americano tournaments. Set your times, number of matches, and let the timer keep you on schedule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
